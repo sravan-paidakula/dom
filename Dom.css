@@ -1,0 +1,11 @@
+#container{
+    display: flex;
+}
+.box{
+    height: 100px;
+    width:100px;
+    background-color:aquamarine;
+    border:2px solid  blueviolet;
+    margin:2px;
+    text-align: center;
+}
